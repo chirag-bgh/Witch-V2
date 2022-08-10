@@ -1,11 +1,3 @@
-# Yield Witch v2 contest details
-- $23,750 USDC main award pot
-- $1,250 USDC gas optimization award pot
-- Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/contests/2022-07-yield-witch-v2-contest/submit)
-- [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
-- Starts July 14, 2022 20:00 UTC
-- Ends July 17, 2022 20:00 UTC
 
 # Auditing the Witch v2
 This contest is for the first major refactor on liquidations engine for the Yield Protocol. The existing engine has been heavily used since its launch in October 2021 and in that time we have found that liquidations have not been as fair as we would have liked. More often than not, liquidated users have lost all their collateral as we have failed to make liquidations competitive.
